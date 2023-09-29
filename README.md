@@ -1,2 +1,2 @@
 # Thesis_single_cell
-Single cell code
+Code used for the analysis with Scanpy
